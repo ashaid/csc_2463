@@ -11,8 +11,8 @@ this is my github repo for CSC 2463. also contains navigation for github pages f
 - [Example 3](https://ashaid.github.io/csc_2463/assignment%201/example-3/index.html)
 - [Example 4](https://ashaid.github.io/csc_2463/assignment%201/example-4/index.html)
 
-### Assignment 2 - [Paint App](assignment%202/index.html)
+### Assignment 2 - [Paint App](https://ashaid.github.io/csc_2463/assignment%202/index.html)
 
-### Assignment 3 - [Sprite Animation](assignment%203/index.html)
+### Assignment 3 - [Sprite Animation](https://ashaid.github.io/csc_2463/assignment%203/index.html)
 
-### Assignment 4 - [Bug Squish](assignment%204/index.html)
+### Assignment 4 - [Bug Squish](https://ashaid.github.io/csc_2463/assignment%204/index.html)
