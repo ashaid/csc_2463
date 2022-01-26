@@ -14,3 +14,5 @@ this is my github repo for CSC 2463. also contains navigation for github pages f
 ### Assignment 2 - [Paint App](assignment%202/index.html)
 
 ### Assignment 3 - [Sprite Animation](assignment%203/index.html)
+
+### Assignment 4 - [Bug Squish](assignment%204/index.html)
