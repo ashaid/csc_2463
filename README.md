@@ -4,8 +4,6 @@ this is my github repo for CSC 2463. also contains navigation for github pages f
 
 ## page navigation
 
----
-
 ### Assignment 1 - Drawing with P5
 
 - [Example 1](https://ashaid.github.io/csc_2463/assignment%201/example-1/index.html)
