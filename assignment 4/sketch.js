@@ -69,7 +69,7 @@ function draw() {
 }
 
 function makeBugs() {
-  for (let i = 0; i < 50; i++) {
+  for (let i = 0; i < 30; i++) {
     let newBug = createSprite(random(800), random(800), 16);
     if (i % 5 == 0) {
       newBug.addAnimation("walk", bugAnimation4);
