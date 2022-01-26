@@ -8,10 +8,10 @@ this is my github repo for CSC 2463. also contains navigation for github pages f
 
 ### Assignment 1 - Drawing with P5
 
-- [Example 1](assignment%201/example-1/index.html)
-- [Example 2](assignment%201/example-2/index.html)
-- [Example 3](assignment%201/example-3/index.html)
-- [Example 4](assignment%201/example-4/index.html)
+- [Example 1](https://ashaid.github.io/csc_2463/assignment%201/example-1/index.html)
+- [Example 2](https://ashaid.github.io/csc_2463/assignment%201/example-2/index.html)
+- [Example 3](https://ashaid.github.io/csc_2463/assignment%201/example-3/index.html)
+- [Example 4](https://ashaid.github.io/csc_2463/assignment%201/example-4/index.html)
 
 ### Assignment 2 - [Paint App](assignment%202/index.html)
 
