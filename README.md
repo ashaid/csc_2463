@@ -16,3 +16,5 @@ this is my github repo for CSC 2463. also contains navigation for github pages f
 ### Assignment 3 - [Sprite Animation](https://ashaid.github.io/csc_2463/assignment%203/index.html)
 
 ### Assignment 4 - [Bug Squish](https://ashaid.github.io/csc_2463/assignment%204/index.html)
+
+### Assignment 5 - [Build a Sampler](https://ashaid.github.io/csc_2463/assignment%205/index.html)
