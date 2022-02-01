@@ -21,9 +21,6 @@ function setup() {
   createCanvas(800, 800);
   background(200);
 
-  button = createButton("click me to enable sound");
-  button.position(50, 50);
-
   // first Noise
   // initialize the amplitude envelope and send to master
   env2 = new Tone.AmplitudeEnvelope().toDestination();
@@ -100,6 +97,7 @@ function sonicSilence() {
 }
 
 function mousePressed() {
+  Tone.start();
   img.resize(300, 450);
   image(img, 150, 25);
   sonicEvent();
@@ -107,5 +105,6 @@ function mousePressed() {
 
 function mouseReleased() {
   sonicSilence();
+  clear();
   background(200);
 }
