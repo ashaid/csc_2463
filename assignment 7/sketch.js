@@ -11,6 +11,7 @@ let env2;
 let noise;
 let env3;
 let img;
+let button;
 
 function preload() {
   img = loadImage("assets/windmill.png");
@@ -19,6 +20,9 @@ function preload() {
 function setup() {
   createCanvas(800, 800);
   background(200);
+
+  button = createButton("click me to enable sound");
+  button.position(50, 50);
 
   // first Noise
   // initialize the amplitude envelope and send to master
@@ -68,7 +72,6 @@ function setup() {
 
   env.connect(gainNode.gain);
   multi.connect(gainNode);
-  Tone.start();
 }
 
 function draw() {
