@@ -17,7 +17,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(500, 500);
+  createCanvas(800, 800);
   background(200);
 
   // first Noise
@@ -68,6 +68,7 @@ function setup() {
 
   env.connect(gainNode.gain);
   multi.connect(gainNode);
+  Tone.start();
 }
 
 function draw() {

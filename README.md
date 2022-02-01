@@ -20,3 +20,5 @@ this is my github repo for CSC 2463. also contains navigation for github pages f
 ### Assignment 5 - [Build a Sampler](https://ashaid.github.io/csc_2463/assignment%205/index.html)
 
 ### Assignment 6 - [Synths and Sequencers](https://ashaid.github.io/csc_2463/assignment%206/index.html)
+
+### Assignment 7 - [Sound Synthesis & Sound Effects](https://ashaid.github.io/csc_2463/assignment%207/index.html)
