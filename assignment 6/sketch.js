@@ -46,7 +46,10 @@ function setup() {
 
   startPart = createButton("start sequence")
     .position(50, 80)
-    .mousePressed(() => sequence.start());
+    .mousePressed(() => {
+      Tone.start();
+      sequence.start();
+    });
 
   stopPart = createButton("stop sequence")
     .position(50, 100)
