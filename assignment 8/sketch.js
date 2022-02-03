@@ -121,7 +121,7 @@ function draw() {
 }
 
 function makeBugs() {
-  for (let i = 0; i < 30; i++) {
+  for (let i = 0; i < 50; i++) {
     let newBug = createSprite(random(windowWidth), random(windowHeight), 16);
     if (i % 5 == 0) {
       newBug.addAnimation("walk", bugAnimation4);
